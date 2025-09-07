@@ -3,7 +3,7 @@
 A simplified, educational thermal–hydraulics model of a **CANDU pressure tube channel**.  
 Implements a **1-D axial energy balance** with convective heat transfer, wall temperature estimation, and pressure drop correlations.  
 
-This project is designed to be **portfolio-ready**: clear code structure, reproducible figures, and concise engineering insights.
+
 
 ---
 
